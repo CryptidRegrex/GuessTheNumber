@@ -1,6 +1,3 @@
-# Please write your name and ID here
-# Name: Justin Tobiason
-# Student ID: 32962499
 
 # All memory structures are placed after the
 # .data assembler directive
